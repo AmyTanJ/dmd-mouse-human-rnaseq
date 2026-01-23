@@ -12,12 +12,8 @@ The workflows are used to examine interferon-associated transcriptional programs
 - Aggregation of single-nucleus RNA-seq data into **condition-level pseudobulk profiles**
 - Due to limited numbers of single-nucleus samples, all nuclei from the same condition are combined and treated as a single composite sample
 
----
-
 ### Semiprofiler Analysis
 - Semiprofiler-based analysis used to **deconvolute single-cell RNA-seq data from bulk RNA-seq data**
-
----
 
 ### Label Transfer
 - Cross-dataset label transfer between sex chimeric and IFN-KO scRNA-seq datasets
