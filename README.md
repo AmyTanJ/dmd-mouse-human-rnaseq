@@ -24,4 +24,4 @@ For questions about the code or data, please contact **Jiahui Tan** at `jiahui.t
 
 ## 📄 License
 
-This analysis code is released under the **MIT License**. You are free to use, modify, and distribute it, provided that the license and copyright notice are retained.
+This analysis code is released under the **MIT License**.
