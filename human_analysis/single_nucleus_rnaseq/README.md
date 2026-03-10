@@ -36,4 +36,5 @@ Part of [human_analysis](../README.md) (see also bulk RNA-seq).
 
 ## 📚 Reference
 
-- **Human single-nucleus RNA-seq data**: Nieves-Rodriguez et al., Frontiers in Genetics 2023, “Transcriptomic analysis of paired healthy human skeletal muscles to identify modulators of disease severity in DMD” ([https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2023.1216066/full](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2023.1216066/full)).
+- **Human single-nucleus RNA-seq data**: Scripture-Adams et al., Communications Biology 2022, “Single nuclei transcriptomics of muscle reveals intra-muscular cell dynamics linked to dystrophin loss and rescue” ([https://www.nature.com/articles/s42003-022-03938-0](https://www.nature.com/articles/s42003-022-03938-0)).
+
